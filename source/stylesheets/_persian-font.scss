@@ -1,7 +1,9 @@
 @font-face {
-    font-family: Shabnam;
-    src: url('Shabnam.eot');
-    src: url('Shabnam.eot') format('embedded-opentype'),
-    url('Shabnam.woff') format('woff'),
-    url('Shabnam.ttf') format('truetype');
+    font-family: 'Shabnam';
+    src:font-url('Shabnam.eot?-syv14m');
+    src:font-url('Shabnam.eot?#iefix-syv14m') format('embedded-opentype'),
+      font-url('Shabnam.woff?-syv14m') format('woff'),
+      font-url('Shabnam.ttf?-syv14m') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
